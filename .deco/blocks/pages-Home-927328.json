@@ -1,1 +1,49 @@
-{"name":"Home","path":"/","sections":[{"__resolveType":"Header"},{"__resolveType":"site/sections/Social.tsx"},{"__resolveType":"site/sections/Links.tsx"},{"__resolveType":"site/sections/Image.tsx"},{"__resolveType":"site/sections/Links.tsx"},{"__resolveType":"Footer"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "Leticia",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Image.tsx",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10613/4d59fe43-b654-4504-a13d-5c4940930800"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx",
+      "social": [
+        {
+          "label": "Instagram",
+          "href": "instagram.com/letiicia_dnz/"
+        },
+        {
+          "label": "Linkedin",
+          "href": "linkedin.com/in/letiicia-dnz/"
+        },
+        {
+          "label": "Discord",
+          "href": "leticiadiniz"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": "Phone",
+          "label": "Make a 30 minutes call with me",
+          "href": "https://calendly.com/leticia-ujlz/30min?back=1&month=2024-06"
+        },
+        {
+          "icon": "User",
+          "label": "Repository",
+          "href": "https://github.com/Letiiciadiniz"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
