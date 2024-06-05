@@ -4,7 +4,8 @@
   "sections": [
     {
       "__resolveType": "site/sections/Image.tsx",
-      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10613/4d59fe43-b654-4504-a13d-5c4940930800"
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10613/4d59fe43-b654-4504-a13d-5c4940930800",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10613/c6b00342-bbff-4209-8685-66442d6dcf5d"
     },
     {
       "__resolveType": "Header"
